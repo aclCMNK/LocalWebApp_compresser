@@ -1,0 +1,14 @@
+{
+	"html": "index.html",
+	"js": [
+		"socket.io.min.js", 
+		"relast.js", 
+		"WWAPP-admin.js"
+	],
+	"main": {
+		"class": "WWAPP_Admin",
+		"props": {
+			"root": "root"
+		}
+	}
+}
