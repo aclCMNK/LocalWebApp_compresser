@@ -1,3 +1,5 @@
+/*jshint esversion: 9*/
+
 const fs = require('fs');
 const UglifyJS = require("uglify-js");
 
